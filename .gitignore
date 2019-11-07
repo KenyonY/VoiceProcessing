@@ -1,0 +1,20 @@
+# Windows:
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
+
+# juyter notebook
+.ipynb_checkpoints
+
+
+
+# version 000000000000
