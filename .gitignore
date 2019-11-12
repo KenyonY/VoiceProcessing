@@ -2,8 +2,11 @@
 Thumbs.db
 ehthumbs.db
 Desktop.ini
-
-
+# -------------
+input_path
+output_path
+starGAN
+# ------------
 # Python:
 *.py[cod]
 *.so
